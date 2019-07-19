@@ -1,0 +1,6 @@
+global components only for :
+- buttons
+- inputs
+the rest of components should be better registered locally.
+
+if you started all with global components, you could improve later to make it local.
